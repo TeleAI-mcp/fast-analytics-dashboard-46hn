@@ -1,2 +1,3 @@
-# fast-analytics-dashboard-46hn
-A analytics dashboard for modern development workflows
+# Fast Analytics Dashboard 46Hn
+
+A analytics dashboard for modern development workflows.
